@@ -1,3 +1,3 @@
-# Newelsoft 작업페이지
+# Newelsoft 는
 
-일단은 작은 것 부터 시작
+newel 은 계단 시작 난간의 첫 기둥을 뜻합니다.
